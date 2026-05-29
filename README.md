@@ -65,18 +65,7 @@ The ensemble model achieved the highest performance, proving the effectiveness o
 * Matplotlib, Seaborn
 * Google Colab
 
----
 
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/your-username/heart-disease-ml.git
-cd heart-disease-ml
-pip install -r requirements.txt
-python main.py
-```
-
----
 
 ## 📈 Key Features
 
@@ -94,8 +83,3 @@ python main.py
 * Deploy as a web-based prediction system
 * Improve interpretability for medical use
 
----
-
-## 📜 License
-
-This project is developed for academic purposes.
