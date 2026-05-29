@@ -1,18 +1,5 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
-## 📌 Authors
-
-* Shahriar Hossain Rafi
-* Jishan Ferdous Navil
-* Munira Mubasshira Mim
-* Nusrat Jahan Maria
-
-## 🎓 Institution
-
-American International University-Bangladesh (AIUB)
-Department of Computer Science & Engineering
-
----
 
 ## 📖 Project Overview
 
