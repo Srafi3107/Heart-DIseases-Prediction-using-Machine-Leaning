@@ -32,7 +32,7 @@ The project follows a complete ML pipeline:
 * K-Nearest Neighbors (KNN)
 * Random Forest (RF)
 * Gradient Boosting Classifier
-* **Stacking Ensemble Model (Final Model)**
+* **Stacking Ensemble Model (Final Model-KNN+ RF+ GBC)**
 
 The stacking model combines KNN and RF with Gradient Boosting as a meta-learner.
 
